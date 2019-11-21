@@ -1,0 +1,19 @@
+div,
+a,
+form,
+input {
+  padding: 20px;
+  border: 2px solid black;
+}
+
+#outer {
+  background-color: red;
+}
+
+#middle {
+  background-color: coral;
+}
+
+#inner {
+  background-color: cyan;
+}
